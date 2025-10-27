@@ -1,0 +1,4 @@
+nome_associado,sobrenome_associado,idade_associado,valor_transacao,descricao_transacao,data_movimento,numero_cartao,nome_impresso_cartao,tipo_conta,data_criacao_conta
+Joao,Braga,30,200.00,Academia,2025-10-26T16:30:00.000Z,1111111111111111,JOAO BRAGA,Corrente,2025-10-26T16:00:00.000Z
+Alessandra,Farias,20,550.80,Mercado,2025-10-02T19:30:00.000Z,3333333333333333,ALESSANDRA FARIAS,Poupanca,2025-09-20T14:00:00.000Z
+Mateus,Silva,25,350.00,Crossfit,2025-10-24T10:00:00.000Z,2222222222222222,MATEUS SILVA,Poupanca,2025-10-22T15:00:00.000Z
